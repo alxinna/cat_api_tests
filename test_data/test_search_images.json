@@ -1,0 +1,22 @@
+[
+  {
+    "param": {
+      "input_data": {
+        "size": "med",
+        "mime_types": "jpg",
+        "has_breeds": true,
+        "limit": 3
+      },
+      "expected_result": {
+        "expected_fields": {
+          "id": "str",
+          "url": "str",
+          "width": "int",
+          "height": "int",
+          "breeds": "list"
+        }
+      }
+    },
+    "id": "Search medium size images"
+  }
+]

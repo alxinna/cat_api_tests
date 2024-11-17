@@ -1,0 +1,11 @@
+  [
+  {
+    "param": {
+      "input_data": {
+        "image_id": "snow",
+        "sub_id": "main_user"
+      }
+    },
+    "id": "Post, get, delete favourites"
+  }
+]
