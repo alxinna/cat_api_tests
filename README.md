@@ -7,8 +7,8 @@ This repository contains a test suite for TheCatAPI, which provides access to ra
 - pip (Python package installer)
 ### 1. Clone the repository:
 ```commandline
-git clone https://github.com/your-username/cat-api-tests.git
-cd cat-api-tests
+git clone https://github.com/alxinna/cat_api_tests.git
+cd cat_api_tests
 ```
 
 ### 2. Install dependencies:
